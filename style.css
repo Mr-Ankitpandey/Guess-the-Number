@@ -90,33 +90,33 @@ body {
 
 @media screen and (max-width: 600px) {
     .main {
-        width: 90vw; /* Adjusted width for smaller screens */
-        padding: 1rem; /* Adjusted padding for smaller screens */
+        width: 90vw; 
+        padding: 1rem; 
     }
 
     #msg {
-        font-size: 1.5rem; /* Adjusted font size for smaller screens */
+        font-size: 1.5rem; 
     }
 
     #input {
-        font-size: 1rem; /* Adjusted font size for smaller screens */
-        margin-top: 1rem; /* Adjusted margin for smaller screens */
-        padding: 10px; /* Adjusted padding for smaller screens */
+        font-size: 1rem; 
+        margin-top: 1rem; 
+        padding: 10px; 
     }
 
     .btns {
-        margin: 1rem; /* Adjusted margin for smaller screens */
+        margin: 1rem; 
     }
 
     #btn,
     #restart-btn {
-        font-size: 1rem; /* Adjusted font size for smaller screens */
-        padding: 8px 16px; /* Adjusted padding for smaller screens */
+        font-size: 1rem; 
+        padding: 8px 16px; 
     }
 
     #attempt,
     #para,
     #attempt-para {
-        font-size: 1rem; /* Adjusted font size for smaller screens */
+        font-size: 1rem;
     }
 }
