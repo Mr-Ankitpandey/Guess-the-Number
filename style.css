@@ -91,6 +91,7 @@ body {
 @media screen and (max-width: 600px) {
     .main {
         width: 90vw; 
+        height: auto;
         padding: 1rem; 
     }
 
